@@ -1,6 +1,6 @@
  # general configuration
-url: https://ericlaurits.github.io/compass/
-baseurl: ''
+url: https://ericlaurits.github.io/compass
+baseurl: https://ericlaurits.github.io/compass
 
 # compass configuration
 compass:
